@@ -9,9 +9,9 @@ nav_order: 1
 Curso de Introducción a la Estadística Bayesiana para el Instituto Nacional de Estadística (INE).
 {: .fs-6 .fw-300 }
 
-[Ver Programa](/schedule){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Recursos](/resources){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Contacto](/contact){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Ver Programa]({{ '/schedule.html' | relative_url }}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Recursos]({{ '/resources.html' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Contacto]({{ '/contact.html' | relative_url }}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -26,13 +26,13 @@ Este curso ofrece una **introducción práctica a la Estadística Bayesiana**, d
 
 ## 🔗 Acceso Rápido
 
-[📅 Programa](/schedule){: .btn .btn-outline }
+[📅 Programa]({{ '/schedule.html' | relative_url }}){: .btn .btn-outline }
 Consulta el calendario y contenidos del curso.
 
-[📚 Recursos](/resources){: .btn .btn-outline }
+[📚 Recursos]({{ '/resources.html' | relative_url }}){: .btn .btn-outline }
 Materiales, diapositivas y referencias.
 
-[✉️ Contacto](/contact){: .btn .btn-outline }
+[✉️ Contacto]({{ '/contact.html' | relative_url }}){: .btn .btn-outline }
 Ponte en contacto con los organizadores.
 
 ---
