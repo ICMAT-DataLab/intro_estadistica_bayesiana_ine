@@ -31,19 +31,24 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 
 ## Referencias Bibliográficas
 
-### 📖 Libros Recomendados
+### 📖 Bibliografía Básica
 
-- **Gelman et al.** - [Bayesian Data Analysis (3ª ed.)](http://www.stat.columbia.edu/~gelman/book/) - Referencia fundamental en estadística bayesiana
-- **McElreath** - [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/) - Introducción moderna con enfoque práctico
-- **Murphy** - [Probabilistic Machine Learning](https://probml.github.io/pml-book/) - Perspectiva desde el aprendizaje automático
-- **Kruschke** - Doing Bayesian Data Analysis - Enfoque aplicado e intuitivo
+- **Gelman, Carlin, Stern, Dunson, Vehtari (2014)** - Bayesian Data Analysis, CRC.
+- **French, Ríos Insua (2000)** - Statistical Decision Theory, Wiley.
+- **Hoff (2009)** - A First Course in Bayesian Statistical Methods, Springer.
+- **Gelman, Hill, Vehtari (2021)** - Regression and other stories, Cambridge UP.
+- **Ríos Insua, Ruggeri, Wiper (2012)** - Bayesian Analysis of Stochastic Processes, Wiley.
+- **Albert (2009)** - Bayesian Computation with R. Springer.
+- **Marin, Robert (2013)** - Bayesian Essentials with R. Springer.
+- **McElreath (2019)** - Statistical Rethinking. CRC.
+- **Ríos Insua et al. (2000)** - BayOff. Bayesian methods in Official Statistics. EUROSTAT.
+- **Agresti, Kateri, Grove, Mira (2026)** - Bayesian Statistics: A primer for data scientists with Python and R.
 
 ### 🛠️ Herramientas y Software
 
-- [Stan](https://mc-stan.org/) - Plataforma de modelado probabilístico de alto rendimiento
-- [PyMC](https://www.pymc.io/) - Librería de programación probabilística en Python
-- [JAGS](https://mcmc-jags.sourceforge.io/) - Software para análisis bayesiano mediante MCMC
-- [brms](https://paul-buerkner.github.io/brms/) - Modelos de regresión bayesianos en R
+- [Stan](https://mc-stan.org/) - Plataforma de modelado probabilístico de alto rendimiento.
+- **R** - Entorno de computación estadística y librerías asociadas.
+- Slides y Notebooks en R - (Se facilitarán durante el curso).
 
 ### 🔗 Otros Cursos del DataLab
 

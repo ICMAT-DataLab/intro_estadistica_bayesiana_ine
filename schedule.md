@@ -17,41 +17,47 @@ nav_order: 2
 ## Calendario de Sesiones
 
 {: .highlight }
-Las sesiones se imparten de forma presencial en las instalaciones del INE. Consulta el [Contacto](/contact) para más información.
+Las sesiones consisten en **5 clases online de 3 horas**, que se impartirán los días **13, 14, 15, 16 y 17 de Abril de 2026**.
 
-| Sesión | Tema | Fecha |
-|--------|------|-------|
-| 1 | Introducción a la inferencia bayesiana | Por confirmar |
-| 2 | Distribuciones a priori y a posteriori | Por confirmar |
-| 3 | Modelos conjugados | Por confirmar |
-| 4 | Métodos de Monte Carlo y MCMC | Por confirmar |
-| 5 | Modelos de regresión bayesianos | Por confirmar |
-| 6 | Aplicaciones en estadística oficial | Por confirmar |
+| Sesión | Fecha |
+|--------|-------|
+| 1 | 13 de Abril 2026 |
+| 2 | 14 de Abril 2026 |
+| 3 | 15 de Abril 2026 |
+| 4 | 16 de Abril 2026 |
+| 5 | 17 de Abril 2026 |
 
 ---
 
 ## Contenidos del Curso
 
-### Bloque 1: Fundamentos
+### Temas principales
 
-- Probabilidad y teorema de Bayes
-- Distribuciones a priori: informativas y no informativas
-- Distribuciones a posteriori y predictivas
-- Estimación puntual e intervalos de credibilidad
+1. Introducción. Métodos bayesianos y estadística oficial
+2. Estimación de proporciones. Modelo beta-binomial. Formalización.
+3. Estimación de medias. Modelo normal-normal. Formalización y recapitulación.
+4. Modelos de regresión lineal. Modelos jerárquicos. Métodos bayes-empíricos
+5. Modelos lineales generalizados. Regresión logística
+6. Métodos computacionales en estadística bayesiana. Introducción
+7. Modelos para series temporales. Modelos dinámicos lineales.
+8. Análisis de decisiones
+9. Algunas aplicaciones en estadística oficial.
 
-### Bloque 2: Métodos Computacionales
+### Materiales y herramientas
+* Lenguaje **R** y diversos paquetes asociados.
+* **STAN**.
+* Se estructurará en torno a *Slides* (diapositivas) y *Notebooks en R*.
 
-- Métodos de Monte Carlo
-- Cadenas de Markov Monte Carlo (MCMC)
-- Muestreo de Gibbs y algoritmo de Metropolis-Hastings
-- Herramientas: Stan, PyMC, JAGS
+---
 
-### Bloque 3: Modelos y Aplicaciones
+## Contenidos bayesianos en los temarios de las oposiciones
 
-- Modelos lineales y de regresión bayesianos
-- Modelos jerárquicos
-- Selección de modelos y comparación bayesiana
-- Aplicaciones en estadística oficial y análisis de datos
+* **Tema 3.** Estimación puntual I. Introducción. Métodos para encontrar estimadores: método de los momentos, estimadores máximo-verosímiles, estimadores de Bayes, estimadores invariantes.
+* **Tema 4.** Estimación puntual II. Métodos para evaluar estimadores: error cuadrático medio, estimadores insesgados óptimos, suficiencia e insesgadez, optimalidad de la función de pérdida.
+* **Tema 5.** Tests de hipótesis. Introducción. Métodos para encontrar tests: tests de ratios de verosimilitudes, tests bayesianos, tests unión-intersección e intersección-unión. Métodos para evaluar tests: probabilidades de error y función de potencia, tests más potentes, tamaños de tests unión-intersección e intersección-unión, optimalidad de la función de pérdida.
+* **Tema 6.** Estimación por intervalos I. Introducción. Métodos para encontrar estimadores de intervalos: inversión del estadístico de un test, cantidades pivotales, intervalos de confianza para estadísticos de orden, intervalos bayesianos.
+* **Tema 7.** Estimación por intervalos II. Métodos para evaluar estimadores de intervalos: tamaño y probabilidad de cobertura, optimalidad relacionada con los tests, optimalidad bayesiana, optimalidad de la función de pérdida.
+* **Tema 7.** (Modelos de Bayes) Modelos lineal y lineal generalizado de Bayes. El enfoque bayesiano a la inferencia estadística. Los modelos lineales bayesianos. Los modelos lineales generalizados bayesianos. Modelización empírica bayesiana y jerárquica bayesiana.
 
 ---
 

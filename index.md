@@ -17,10 +17,10 @@ Curso de Introducción a la Estadística Bayesiana para el Instituto Nacional de
 
 ## 📖 Sobre el Curso
 
-Este curso ofrece una **introducción práctica a la Estadística Bayesiana**, desde sus fundamentos teóricos hasta su aplicación en problemas reales de análisis de datos. El curso está diseñado para profesionales y técnicos del INE interesados en incorporar métodos bayesianos a su práctica estadística.
+La inferencia bayesiana proporciona una aproximación unificada y coherente a los problemas de interés en Estadística, tanto de inferencia, como de predicción y toma de decisiones. El objetivo del curso es introducir los conceptos principales de inferencia bayesiana con ayuda de modelos motivados por problemas aplicados relevantes de la Estadística Oficial.
 
 {: .note }
-> El curso combina sesiones teóricas con ejercicios prácticos en R.
+> El curso consta de 5 sesiones online de 3 horas (13, 14, 15, 16, 17 de Abril 2026), empleando R, diversos paquetes asociados y STAN. Se proveerán diapositivas y notebooks.
 
 ---
 
