@@ -23,7 +23,7 @@ El curso está organizado por el **ICMAT DataLab** en colaboración con el **Ins
 
 ### ICMAT DataLab
 
-- **David Ríos Insua** - [davidrios@icmat.es](mailto:davidrios@icmat.es) · [Web](https://www.davidriosinsua.es)
+- **David Ríos Insua** - [david.rios@icmat.es](mailto:davidrios@icmat.es) · [Web](https://www.davidriosinsua.es)
 - **Pablo G. Arce** - [pablo.garcia@icmat.es](mailto:pablo.garcia@icmat.es) · [Web](https://pablogarciarce.github.io)
 - **Mario Chacón Falcón** - [mario.chacon@icmat.es](mailto:mario.chacon@icmat.es) · [Web](https://mchacon28.github.io)
 
