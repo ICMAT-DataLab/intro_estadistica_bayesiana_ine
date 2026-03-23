@@ -26,23 +26,14 @@ Este curso ofrece una **introducción práctica a la Estadística Bayesiana**, d
 
 ## 🔗 Acceso Rápido
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <div style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px;">
-    <h3 style="margin-top: 0;">📅 Programa</h3>
-    <p>Consulta el calendario y contenidos del curso</p>
-    <a href="/schedule">Ver Programa →</a>
-  </div>
-  <div style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px;">
-    <h3 style="margin-top: 0;">📚 Recursos</h3>
-    <p>Materiales, diapositivas y referencias</p>
-    <a href="/resources">Ver Recursos →</a>
-  </div>
-  <div style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px;">
-    <h3 style="margin-top: 0;">✉️ Contacto</h3>
-    <p>Ponte en contacto con los organizadores</p>
-    <a href="/contact">Contactar →</a>
-  </div>
-</div>
+[📅 Programa](/schedule){: .btn .btn-outline }
+Consulta el calendario y contenidos del curso.
+
+[📚 Recursos](/resources){: .btn .btn-outline }
+Materiales, diapositivas y referencias.
+
+[✉️ Contacto](/contact){: .btn .btn-outline }
+Ponte en contacto con los organizadores.
 
 ---
 
@@ -50,6 +41,7 @@ Este curso ofrece una **introducción práctica a la Estadística Bayesiana**, d
 
 **ICMAT DataLab**
 - [David Ríos Insua](https://www.davidriosinsua.es)
-- [Roi Naveiro](https://roinaveiro.github.io/)
+- [Pablo G. Arce](https://pablogarciarce.github.io)
+- [Mario Chacón Falcón](https://mchacon28.github.io)
 
 En colaboración con el **Instituto Nacional de Estadística (INE)**.

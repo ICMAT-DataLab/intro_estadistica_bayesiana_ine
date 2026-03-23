@@ -1,3 +1,12 @@
 source "https://rubygems.org"
+gem "jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "csv"
+gem "base64"
+gem "webrick"
+gem "bigdecimal"
+gem "mutex_m"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", "~> 0.2.1"

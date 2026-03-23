@@ -1,0 +1,156 @@
+{"0": {
+    "doc": "Contacto",
+    "title": "✉️ Contacto",
+    "content": "¿Tienes alguna pregunta sobre el curso? Puedes ponerte en contacto con los organizadores a través de los siguientes canales. ",
+    "url": "/contact.html#%EF%B8%8F-contacto",
+    
+    "relUrl": "/contact.html#️-contacto"
+  },"1": {
+    "doc": "Contacto",
+    "title": "Tabla de Contenidos",
+    "content": ". | 🏛️ Organizadores . | ICMAT DataLab | . | 📬 Cómo Contactarnos . | Correo Electrónico | GitHub | . | 🏢 Instituciones | . ",
+    "url": "/contact.html#tabla-de-contenidos",
+    
+    "relUrl": "/contact.html#tabla-de-contenidos"
+  },"2": {
+    "doc": "Contacto",
+    "title": "🏛️ Organizadores",
+    "content": "El curso está organizado por el ICMAT DataLab en colaboración con el Instituto Nacional de Estadística (INE). ICMAT DataLab . | David Ríos Insua - davidrios@icmat.es · Web | Pablo G. Arce - pablo.garcia@icmat.es · Web | Mario Chacón Falcón - mario.chacon@icmat.es · Web | . ",
+    "url": "/contact.html#%EF%B8%8F-organizadores",
+    
+    "relUrl": "/contact.html#️-organizadores"
+  },"3": {
+    "doc": "Contacto",
+    "title": "📬 Cómo Contactarnos",
+    "content": "Correo Electrónico . Para cualquier consulta relacionada con el contenido del curso, los materiales o la participación, puedes escribirnos a: . Enviar Email → . GitHub . Para reportar errores en los materiales, sugerir mejoras o contribuir al repositorio: . Visitar GitHub → . ",
+    "url": "/contact.html#-c%C3%B3mo-contactarnos",
+    
+    "relUrl": "/contact.html#-cómo-contactarnos"
+  },"4": {
+    "doc": "Contacto",
+    "title": "🏢 Instituciones",
+    "content": ". | ICMAT: Instituto de Ciencias Matemáticas | INE: Instituto Nacional de Estadística | . ",
+    "url": "/contact.html#-instituciones",
+    
+    "relUrl": "/contact.html#-instituciones"
+  },"5": {
+    "doc": "Contacto",
+    "title": "Contacto",
+    "content": " ",
+    "url": "/contact.html",
+    
+    "relUrl": "/contact.html"
+  },"6": {
+    "doc": "Inicio",
+    "title": "Introducción a la Estadística Bayesiana",
+    "content": "Curso de Introducción a la Estadística Bayesiana para el Instituto Nacional de Estadística (INE). Ver Programa Recursos Contacto . ",
+    "url": "/#introducci%C3%B3n-a-la-estad%C3%ADstica-bayesiana",
+    
+    "relUrl": "/#introducción-a-la-estadística-bayesiana"
+  },"7": {
+    "doc": "Inicio",
+    "title": "📖 Sobre el Curso",
+    "content": "Este curso ofrece una introducción práctica a la Estadística Bayesiana, desde sus fundamentos teóricos hasta su aplicación en problemas reales de análisis de datos. El curso está diseñado para profesionales y técnicos del INE interesados en incorporar métodos bayesianos a su práctica estadística. El curso combina sesiones teóricas con ejercicios prácticos en R y/o Python. ",
+    "url": "/#-sobre-el-curso",
+    
+    "relUrl": "/#-sobre-el-curso"
+  },"8": {
+    "doc": "Inicio",
+    "title": "🔗 Acceso Rápido",
+    "content": "📅 Programa Consulta el calendario y contenidos del curso. 📚 Recursos Materiales, diapositivas y referencias. ✉️ Contacto Ponte en contacto con los organizadores. ",
+    "url": "/#-acceso-r%C3%A1pido",
+    
+    "relUrl": "/#-acceso-rápido"
+  },"9": {
+    "doc": "Inicio",
+    "title": "🙌 Organizado por",
+    "content": "ICMAT DataLab . | David Ríos Insua | Pablo G. Arce | Mario Chacón Falcón | . En colaboración con el Instituto Nacional de Estadística (INE). ",
+    "url": "/#-organizado-por",
+    
+    "relUrl": "/#-organizado-por"
+  },"10": {
+    "doc": "Inicio",
+    "title": "Inicio",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"11": {
+    "doc": "Recursos",
+    "title": "📚 Recursos y Materiales",
+    "content": " ",
+    "url": "/resources.html#-recursos-y-materiales",
+    
+    "relUrl": "/resources.html#-recursos-y-materiales"
+  },"12": {
+    "doc": "Recursos",
+    "title": "Tabla de Contenidos",
+    "content": ". | Materiales del Curso | Referencias Bibliográficas . | 📖 Libros Recomendados | 🛠️ Herramientas y Software | 🔗 Otros Cursos del DataLab | . | . ",
+    "url": "/resources.html#tabla-de-contenidos",
+    
+    "relUrl": "/resources.html#tabla-de-contenidos"
+  },"13": {
+    "doc": "Recursos",
+    "title": "Materiales del Curso",
+    "content": "Los materiales de cada sesión (diapositivas, ejercicios y código) estarán disponibles aquí a medida que avance el curso. | Sesión | Tema | Materiales | . | 1 | Introducción a la inferencia bayesiana | Próximamente | . | 2 | Distribuciones a priori y a posteriori | Próximamente | . | 3 | Modelos conjugados | Próximamente | . | 4 | Métodos de Monte Carlo y MCMC | Próximamente | . | 5 | Modelos de regresión bayesianos | Próximamente | . | 6 | Aplicaciones en estadística oficial | Próximamente | . ",
+    "url": "/resources.html#materiales-del-curso",
+    
+    "relUrl": "/resources.html#materiales-del-curso"
+  },"14": {
+    "doc": "Recursos",
+    "title": "Referencias Bibliográficas",
+    "content": "📖 Libros Recomendados . | Gelman et al. - Bayesian Data Analysis (3ª ed.) - Referencia fundamental en estadística bayesiana | McElreath - Statistical Rethinking - Introducción moderna con enfoque práctico | Murphy - Probabilistic Machine Learning - Perspectiva desde el aprendizaje automático | Kruschke - Doing Bayesian Data Analysis - Enfoque aplicado e intuitivo | . 🛠️ Herramientas y Software . | Stan - Plataforma de modelado probabilístico de alto rendimiento | PyMC - Librería de programación probabilística en Python | JAGS - Software para análisis bayesiano mediante MCMC | brms - Modelos de regresión bayesianos en R | . 🔗 Otros Cursos del DataLab . | Intro to Machine Learning | Bayesian Data Science | . ¿Tienes algún recurso que quieras compartir? Puedes abrir un issue en nuestro repositorio de GitHub. ",
+    "url": "/resources.html#referencias-bibliogr%C3%A1ficas",
+    
+    "relUrl": "/resources.html#referencias-bibliográficas"
+  },"15": {
+    "doc": "Recursos",
+    "title": "Recursos",
+    "content": " ",
+    "url": "/resources.html",
+    
+    "relUrl": "/resources.html"
+  },"16": {
+    "doc": "Programa",
+    "title": "📅 Programa del Curso",
+    "content": " ",
+    "url": "/schedule.html#-programa-del-curso",
+    
+    "relUrl": "/schedule.html#-programa-del-curso"
+  },"17": {
+    "doc": "Programa",
+    "title": "Tabla de Contenidos",
+    "content": ". | Calendario de Sesiones | Contenidos del Curso . | Bloque 1: Fundamentos | Bloque 2: Métodos Computacionales | Bloque 3: Modelos y Aplicaciones | . | Materiales de Sesiones Pasadas | . ",
+    "url": "/schedule.html#tabla-de-contenidos",
+    
+    "relUrl": "/schedule.html#tabla-de-contenidos"
+  },"18": {
+    "doc": "Programa",
+    "title": "Calendario de Sesiones",
+    "content": "Las sesiones se imparten de forma presencial en las instalaciones del INE. Consulta el Contacto para más información. | Sesión | Tema | Fecha | . | 1 | Introducción a la inferencia bayesiana | Por confirmar | . | 2 | Distribuciones a priori y a posteriori | Por confirmar | . | 3 | Modelos conjugados | Por confirmar | . | 4 | Métodos de Monte Carlo y MCMC | Por confirmar | . | 5 | Modelos de regresión bayesianos | Por confirmar | . | 6 | Aplicaciones en estadística oficial | Por confirmar | . ",
+    "url": "/schedule.html#calendario-de-sesiones",
+    
+    "relUrl": "/schedule.html#calendario-de-sesiones"
+  },"19": {
+    "doc": "Programa",
+    "title": "Contenidos del Curso",
+    "content": "Bloque 1: Fundamentos . | Probabilidad y teorema de Bayes | Distribuciones a priori: informativas y no informativas | Distribuciones a posteriori y predictivas | Estimación puntual e intervalos de credibilidad | . Bloque 2: Métodos Computacionales . | Métodos de Monte Carlo | Cadenas de Markov Monte Carlo (MCMC) | Muestreo de Gibbs y algoritmo de Metropolis-Hastings | Herramientas: Stan, PyMC, JAGS | . Bloque 3: Modelos y Aplicaciones . | Modelos lineales y de regresión bayesianos | Modelos jerárquicos | Selección de modelos y comparación bayesiana | Aplicaciones en estadística oficial y análisis de datos | . ",
+    "url": "/schedule.html#contenidos-del-curso",
+    
+    "relUrl": "/schedule.html#contenidos-del-curso"
+  },"20": {
+    "doc": "Programa",
+    "title": "Materiales de Sesiones Pasadas",
+    "content": "Consulta la página de Recursos para acceder a las diapositivas y materiales de sesiones anteriores. ",
+    "url": "/schedule.html#materiales-de-sesiones-pasadas",
+    
+    "relUrl": "/schedule.html#materiales-de-sesiones-pasadas"
+  },"21": {
+    "doc": "Programa",
+    "title": "Programa",
+    "content": " ",
+    "url": "/schedule.html",
+    
+    "relUrl": "/schedule.html"
+  }
+}

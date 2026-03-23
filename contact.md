@@ -24,7 +24,8 @@ El curso está organizado por el **ICMAT DataLab** en colaboración con el **Ins
 ### ICMAT DataLab
 
 - **David Ríos Insua** - [davidrios@icmat.es](mailto:davidrios@icmat.es) · [Web](https://www.davidriosinsua.es)
-- **Roi Naveiro** - [roi.naveiro@icmat.es](mailto:roi.naveiro@icmat.es) · [Web](https://roinaveiro.github.io/)
+- **Pablo G. Arce** - [pablo.garcia@icmat.es](mailto:pablo.garcia@icmat.es) · [Web](https://pablogarciarce.github.io)
+- **Mario Chacón Falcón** - [mario.chacon@icmat.es](mailto:mario.chacon@icmat.es) · [Web](https://mchacon28.github.io)
 
 ---
 
@@ -46,20 +47,7 @@ Para reportar errores en los materiales, sugerir mejoras o contribuir al reposit
 
 ## 🏢 Instituciones
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <div style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px;">
-    <h3 style="margin-top: 0;">ICMAT</h3>
-    <p>Instituto de Ciencias Matemáticas</p>
-    <a href="https://www.icmat.es" target="_blank">www.icmat.es →</a>
-  </div>
-  <div style="padding: 1rem; border: 1px solid #e1e4e8; border-radius: 6px;">
-    <h3 style="margin-top: 0;">INE</h3>
-    <p>Instituto Nacional de Estadística</p>
-    <a href="https://www.ine.es" target="_blank">www.ine.es →</a>
-  </div>
-</div>
+- **[ICMAT](https://www.icmat.es)**: Instituto de Ciencias Matemáticas
+- **[INE](https://www.ine.es)**: Instituto Nacional de Estadística
 
 ---
-
-{: .highlight }
-> El curso está abierto a profesionales y técnicos del INE. Si tienes dudas sobre si el curso es adecuado para tu perfil, no dudes en contactarnos.
