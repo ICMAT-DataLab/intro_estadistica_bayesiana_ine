@@ -20,12 +20,11 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 
 | Sesión | Tema | Materiales |
 |--------|------|------------|
-| 1 | Introducción a la inferencia bayesiana | Próximamente |
-| 2 | Distribuciones a priori y a posteriori | Próximamente |
-| 3 | Modelos conjugados | Próximamente |
-| 4 | Métodos de Monte Carlo y MCMC | Próximamente |
-| 5 | Modelos de regresión bayesianos | Próximamente |
-| 6 | Aplicaciones en estadística oficial | Próximamente |
+| 1 | Introducción, proporciones y medias | Próximamente |
+| 2 | Modelos de regresión lineal y jerárquicos | Próximamente |
+| 3 | Modelos lineales generalizados y regresión logística | Próximamente |
+| 4 | Métodos computacionales y series temporales | Próximamente |
+| 5 | Análisis de decisiones y aplicaciones prácticas | Próximamente |
 
 ---
 

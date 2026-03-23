@@ -19,13 +19,13 @@ nav_order: 2
 {: .highlight }
 Las sesiones consisten en **5 clases online de 3 horas**, que se impartirán los días **13, 14, 15, 16 y 17 de Abril de 2026**.
 
-| Sesión | Fecha |
-|--------|-------|
-| 1 | 13 de Abril 2026 |
-| 2 | 14 de Abril 2026 |
-| 3 | 15 de Abril 2026 |
-| 4 | 16 de Abril 2026 |
-| 5 | 17 de Abril 2026 |
+| Sesión | Tema | Fecha |
+|--------|------|-------|
+| 1 | Introducción, proporciones y medias | 13 de Abril 2026 |
+| 2 | Modelos de regresión lineal y jerárquicos | 14 de Abril 2026 |
+| 3 | Modelos lineales generalizados y regresión logística | 15 de Abril 2026 |
+| 4 | Métodos computacionales y series temporales | 16 de Abril 2026 |
+| 5 | Análisis de decisiones y aplicaciones prácticas | 17 de Abril 2026 |
 
 ---
 
