@@ -1,0 +1,41 @@
+title: "Introducción a la Estadística Bayesiana"
+description: "Curso de Introducción a la Estadística Bayesiana para el INE."
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme Customization
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+# Footer
+footer_content: "Copyright &copy; 2025 ICMAT DataLab. Distribuido bajo la <a href=\"https://creativecommons.org/licenses/by/4.0/\">Licencia CC BY 4.0</a>."
+
+# Callouts
+callouts_level: loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Importante
+    color: blue
+  new:
+    title: Nuevo
+    color: green
+  note:
+    title: Nota
+    color: purple
+  warning:
+    title: Advertencia
+    color: red
+
+# Aux links
+aux_links:
+  "GitHub":
+    - "https://github.com/ICMAT-DataLab/intro_estadistica_bayesiana_ine"
+
+aux_links_new_tab: false
