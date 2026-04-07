@@ -31,4 +31,4 @@ La inferencia bayesiana proporciona una aproximación unificada y coherente a lo
 - [Pablo G. Arce](https://pablogarciarce.github.io)
 - [Mario Chacón Falcón](https://mchacon28.github.io)
 
-En colaboración con el **Instituto Nacional de Estadística (INE)**.
+En colaboración con la **Escuela de Estadística de las Administraciones Públicas (EEAP)**.

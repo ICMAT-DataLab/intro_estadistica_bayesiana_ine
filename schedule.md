@@ -63,4 +63,4 @@ Las sesiones consisten en **5 clases online de 3 horas**, que se impartirán los
 
 ## Materiales de Sesiones Pasadas
 
-Consulta la página de [Recursos](/resources) para acceder a las diapositivas y materiales de sesiones anteriores.
+Consulta la página de [Recursos]({{ '/resources.html' | relative_url }}) para acceder a las diapositivas y materiales de sesiones anteriores.

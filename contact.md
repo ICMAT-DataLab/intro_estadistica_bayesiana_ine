@@ -19,7 +19,7 @@ nav_order: 4
 
 ## 🏛️ Organizadores
 
-El curso está organizado por el **ICMAT DataLab** en colaboración con el **Instituto Nacional de Estadística (INE)**.
+El curso está organizado por el **ICMAT DataLab** en colaboración con la **Escuela de Estadística de las Administraciones Públicas (EEAP)**.
 
 ### ICMAT DataLab
 
@@ -49,5 +49,6 @@ Para reportar errores en los materiales, sugerir mejoras o contribuir al reposit
 
 - **[ICMAT](https://www.icmat.es)**: Instituto de Ciencias Matemáticas
 - **[INE](https://www.ine.es)**: Instituto Nacional de Estadística
+- **[EEAP](https://www.ine.es/ine/eeaapp/)**: Escuela de Estadística de las Administraciones Públicas
 
 ---
