@@ -20,7 +20,7 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 
 | Sesión | Tema | Materiales |
 |--------|------|------------|
-| 1 | Introducción, proporciones | [Slides 1](/slides/BayesINE1.pdf){: .btn .btn-sm} [Slides 2](/slides/BayesINE2.pdf){: .btn .btn-sm} código: Próximamente |
+| 1 | Introducción, proporciones | [Slides 1](/slides/BayesINE1.pdf){: .btn .btn-sm} [Slides 2](/slides/BayesINE2.pdf){: .btn .btn-sm} <br> código: Próximamente |
 | 2 | Medias, modelos de regresión lineal y jerárquicos | Próximamente |
 | 3 | Series temporales, modelos lineales generalizados y regresión logística | Próximamente |
 | 4 | Métodos computacionales | Próximamente |
