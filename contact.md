@@ -43,6 +43,12 @@ Para reportar errores en los materiales, sugerir mejoras o contribuir al reposit
 
 [Visitar GitHub →](https://github.com/ICMAT-DataLab/intro_estadistica_bayesiana_ine){: .btn }
 
+### Discord
+
+Para plantear dudas, también puedes escribirnos por:
+
+[Visitar Discord →](https://discord.gg/fk3UQFge){: .btn }
+
 ---
 
 ## 🏢 Instituciones
