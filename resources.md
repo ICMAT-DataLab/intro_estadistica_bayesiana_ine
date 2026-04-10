@@ -23,7 +23,7 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 | 1 | Introducción, proporciones | Próximamente |
 | 2 | Medias, modelos de regresión lineal y jerárquicos | Próximamente |
 | 3 | Series temporales, modelos lineales generalizados y regresión logística | Próximamente |
-| 4 | Métodos computacionales| Próximamente |
+| 4 | Métodos computacionales | Próximamente |
 | 5 | Análisis de decisiones y aplicaciones prácticas | Próximamente |
 
 ---
