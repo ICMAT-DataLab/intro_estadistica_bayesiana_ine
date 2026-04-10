@@ -37,9 +37,9 @@ Las sesiones consisten en **5 clases online de 3 horas**, que se impartirán los
 2. Estimación de proporciones. Modelo beta-binomial. Formalización.
 3. Estimación de medias. Modelo normal-normal. Formalización y recapitulación.
 4. Modelos de regresión lineal. Modelos jerárquicos. Métodos bayes-empíricos
-5. Modelos lineales generalizados. Regresión logística
-6. Métodos computacionales en estadística bayesiana. Introducción
-7. Modelos para series temporales. Modelos dinámicos lineales.
+5. Modelos para series temporales. Modelos dinámicos lineales.
+6. Modelos lineales generalizados. Regresión logística
+7. Métodos computacionales en estadística bayesiana. Introducción
 8. Análisis de decisiones
 9. Algunas aplicaciones en estadística oficial.
 
