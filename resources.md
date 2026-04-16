@@ -28,7 +28,7 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 
 <br>
 
-**Lectura complementaria:** [Estadística Bayesiana en la Estadística Oficial (PDF)](/slides/bayoff.pdf){: .btn .btn-outline}
+**Lectura complementaria:** [Estadística Bayesiana en la Estadística Oficial (PDF)](/slides/bayoff.pdf)
 ---
 
 ## Referencias Bibliográficas
