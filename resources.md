@@ -26,6 +26,9 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 | 4 | Métodos computacionales | [Slides T7](/slides/BayesINE7.pdf){: .btn .btn-sm} <br> [Lab 7](/code/BayesINElab7.zip){: .btn .btn-sm} |
 | 5 | Análisis de decisiones y aplicaciones prácticas | Slides: Próximamente <br> Código: Próximamente |
 
+<br>
+
+**Lectura complementaria:** [Estadística Bayesiana en la Estadística Oficial (PDF)](/slides/bayoff.pdf){: .btn .btn-outline}
 ---
 
 ## Referencias Bibliográficas
