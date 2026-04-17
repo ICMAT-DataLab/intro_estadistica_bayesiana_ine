@@ -23,7 +23,7 @@ Los materiales de cada sesión (diapositivas, ejercicios y código) estarán dis
 | 1 | Introducción, proporciones | [Slides T1](/slides/BayesINE1.pdf){: .btn .btn-sm} [Slides T2](/slides/BayesINE2.pdf){: .btn .btn-sm} <br> [Lab 1](/code/BayesINE1.zip){: .btn .btn-sm} [Lab 2](/code/BayesINElab2.zip){: .btn .btn-sm} |
 | 2 | Medias, modelos de regresión lineal y jerárquicos | [Slides T3](/slides/BayesINE3.pdf){: .btn .btn-sm} [Slides T4](/slides/BayesINE4.pdf){: .btn .btn-sm} <br> [Lab 3](/code/BayesINElab3.zip){: .btn .btn-sm} [Lab 4](/code/BayesINElab4.zip){: .btn .btn-sm}  |
 | 3 | Series temporales, modelos lineales generalizados y regresión logística | [Slides T5](/slides/BayesINE5.pdf){: .btn .btn-sm} [Slides T6](/slides/BayesINE6.pdf){: .btn .btn-sm}<br> [Lab 5](/code/BayesINElab5.zip){: .btn .btn-sm} [Lab 6](/code/BayesINElab6.zip){: .btn .btn-sm}|
-| 4 | Métodos computacionales | [Slides T7](/slides/BayesINE7.pdf){: .btn .btn-sm} <br> [Lab 7](/code/BayesINElab7.zip){: .btn .btn-sm} |
+| 4 | Métodos computacionales | [Slides T7](/slides/BayesINE7.pdf){: .btn .btn-sm} <br> [Lab 7_1](/code/BayesINElab7.zip){: .btn .btn-sm} [Lab 7_2](/code/BayesINElab7_2.zip){: .btn .btn-sm} |
 | 5 | Análisis de decisiones y aplicaciones prácticas | [Slides T8](/slides/BayesINE8.pdf){: .btn .btn-sm} [Slides T9](/slides/BayesINE9.pdf){: .btn .btn-sm}|
 
 <br>
